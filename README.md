@@ -1,7 +1,7 @@
 
 # Adidas Sales Data Dashboard
 
-This is a basic interactive dashboard made in MS Excel to visualize the sales data of Adidas in United States of the years - 2020 and 2021. The dashoboard has been made involving the use of pivot tables and various charts like bar charts, pie charts, line graphs. And it has been made interactive by using slicers. 
+This is a basic interactive dashboard made in MS Excel to visualize the sales data of Adidas in United States of the years - 2020 and 2021. The dashboard has been made involving the use of pivot tables and various charts like bar charts, pie charts, line graphs. And it has been made interactive by using slicers. 
 
 
 
